@@ -1,0 +1,4 @@
+
+# Title: Air Pollutant Concentration Prediction Using Deep Learning Techniques for Smart City: Beijing.
+
+This research project used deep learning algorithms such as MLP, RNN, GRU, LSTM to predict air pollutants concentration using air pollutant data and meteorological features andcomparing their performance with the traditionally implemented machine learning Models. The research was focused on understanding state of the art models for prediction of PM2.5 concentration in upcoming time frames. The research also implemented various visualizations to find out any correlations or hidden pattern within the features. Thus, research concluded that LSTM outperformed all other implemented algorithms and reason behind was the gates present in LSTM which makes it very accurate prediction algorithm for time series, sequence datasets. Tools used were Python using Jupyter notebooks and Tableau.
